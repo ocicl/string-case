@@ -1,0 +1,10 @@
+* string-case
+
+Excessive macro that generates decision trees for small sets of
+strings.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/pkhuong/string-case.git |
+| commit  | 718c761                                        |
+| systems | string-case                                    |
+|---------+------------------------------------------------|
